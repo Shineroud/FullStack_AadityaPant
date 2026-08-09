@@ -26,3 +26,7 @@ while (Gnum != promptNum){
    Gnum = prompt ("You entered WRONG number: Guess the right number (0 - 100): ");
 }
 console.log("Congrats, you guessed the right  number")
+const lkj = {
+    Name: aaditya,
+    
+}
